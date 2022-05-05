@@ -28,5 +28,5 @@ made with love by [@tixlegeek](https://twitter.com/tixlegeek) - https://tixlegee
 
 ## Raspberry Pi Pico
 
-![raspberry_pi_pico](../../../lrzkDoc/network/raspberry/raspberry_pi_pico.svg)
+![raspberry_pi_pico](raspberry_pi_pico.svg)
 
