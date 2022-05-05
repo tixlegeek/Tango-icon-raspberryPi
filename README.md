@@ -21,3 +21,8 @@ made with love by [@tixlegeek](https://twitter.com/tixlegeek) - https://tixlegee
 ## Raspberry Pi v4
 
 ![raspberry_pi_4](raspberry_pi_4.svg)
+
+## Raspberry Pi Pico
+
+![raspberry_pi_pico](../../../lrzkDoc/network/raspberry/raspberry_pi_pico.svg)
+
